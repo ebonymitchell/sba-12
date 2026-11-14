@@ -1,0 +1,12 @@
+# Installed dependencies
+node_modules/
+
+# Private environment variables
+.env
+.env.*
+
+# Sensitive configuration files
+secret.js
+
+# Logs
+*.log
