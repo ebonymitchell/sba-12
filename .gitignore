@@ -4,6 +4,7 @@ node_modules/
 # Private environment variables
 .env
 .env.*
+!.env.example
 
 # Sensitive configuration files
 secret.js
